@@ -1,5 +1,6 @@
 import { Metadata } from 'next';
 import Navigation from '../components/navigation';
+import '../styles/global.css';
 
 // html -> head 태그 내에 들어가는 metadata
 export const metadata: Metadata = {
